@@ -1,18 +1,27 @@
-# UI Sketch Concept for Phase 1
+# Revised UI Sketch Concept for Phase 1
 
 ## Components:
 
-1. **Health Bars:** Displayed at the top corners for each player.
-- Left for Player 1, right for Player 2.
+1. **Health Bars:**
+   - Positioned at the top corners for each player.
+   - Left for Player 1, right for Player 2 with distinct color indicators.
 
-2. **Weather Panel:** Centered at the top, showing the current weather (like 'Rainy', 'Windy') with a matching icon.
+2. **Weather and Conditions:**
+   - Weather panel in the center top, showing the current weather conditions (e.g., clear, rainy, windy) with animated icons.
+   - Stamina and fatigue stats displayed alongside health bars.
 
-3. **Throw Control Area:**
-- Aiming arrow in the center of the screen for targeting.
-- Power meter below for adjusting throw strength (via a slider).
+3. **Throwing Area:**
+   - Aiming system: A draggable arrow for setting direction.
+   - Power meter below for determining throw strength (slider-like mechanic).
 
-4. **Player Stats:**
-- Under the health bars: stamina, accuracy, and power-up cards.
+4. **Action Panel:**
+   - Power-up cards visible for activation.
+   - Buttons for selecting the type of stone to throw.
 
-5. **Pixel Art Background:**
-Placeholder terrain with a suggested environment that matches weather dynamics (grass swaying in windy themes, wet puddled surfaces, etc.).
+5. **Background Environment:**
+   - Dynamic pixel-art environment reflecting weather conditions (e.g., clouds, rain, wind).
+
+# Improvements in the Layout
+
+ - Better segregation of critical stats and action UI.
+ - Compact, intuitive design to minimize distraction while keeping gameplay immersive.
