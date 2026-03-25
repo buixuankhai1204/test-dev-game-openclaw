@@ -1,0 +1,11 @@
+# Fire Stone Sprite
+
+- A circular 32x32 sprite for the fire-enhanced throwable stone.
+- Design details:
+  - Fiery orange-yellow color with animated flame effects.
+  - Glowing edges for a dynamic appearance.
+
+Animation frames (flame effect):
+1. Static stone base.
+2. Flame flickers to the left.
+3. Flame flickers to the right.

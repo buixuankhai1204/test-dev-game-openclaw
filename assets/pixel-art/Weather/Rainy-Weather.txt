@@ -1,0 +1,10 @@
+# Rainy Weather Icon
+
+- A 32x32 static sprite featuring:
+  - A dark cloud with raindrops below.
+  - Optional: Slight animation for raindrops falling.
+
+Animation frames (optional raindrop effect):
+1. Raindrops initiate at the cloud.
+2. Raindrops extend downward slightly.
+3. Raindrops reset to the cloud.
