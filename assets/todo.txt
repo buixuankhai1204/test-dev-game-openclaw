@@ -1,17 +1,22 @@
-## Next Steps for Phase 1 Implementation
+## Phase 1 Detailed Tasks (Revised)
 
 1. **Pixel Art Creation:**
-- Characters: Create two basic player sprites with idle and throwing animations.
-- Stones: Design three types of throwable stones (basic, fire, wind).
-- Icons: Weather icons (sun, rain, wind, storm).
+   - **Characters:** Refine Player 1 and Player 2 designs with smoother animations for idle and throwing motions.
+   - **Stones:** Add enhanced sprites for wind and shield stones.
+   - **Weather Icons:** Finalize all weather conditions with animations (e.g., dynamic rain, moving clouds).
 
-2. **UI Wireframe:**
-- Develop pixel-art-based health bars and stat panels.
-- Create mockup for the power meter with a dynamic fill system based on slider interaction.
+2. **UI Enhancements:**
+   - Design interactive health bars that update dynamically.
+   - Add animations to the power meter to reflect energy buildup.
 
-3. **Dynamic Weather Implementation:**
-- Simulate basic weather transitions (color changes, animated effects).
+3. **Weather System Implementation:**
+   - Simulate changing weather conditions between turns.
+   - Add effects to influence gameplay (e.g., throw distance reduction in rain).
 
-4. **Document Further Ideas:**
-- Finalize phase delivery report for tools/assets.
-- Review feedback from stakeholders by providing a mid-phase draft.
+4. **Testing and Feedback:**
+   - Conduct usability testing for the revised interface.
+   - Gather feedback on clarity, engagement, and responsiveness.
+
+5. **Documentation and Delivery:**
+   - Finalize the design and implementation notes.
+   - Prepare the Phase 1 summary report for review.
