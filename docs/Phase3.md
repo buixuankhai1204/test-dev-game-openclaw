@@ -1,20 +1,10 @@
-# Phase 3: Developing Core Mechanics & Enhancing Kinetics
+# Phase 3: Core Mechanics and Gameplay Enhancements
 
-## Weather and Physical Dynamics
-### Dynamic Weather
-- Rain: Reduces throw distance.
-- Wind: Pushes stones sideways depending on strength.
-- Example: Wind meter + randomized visuals per throw.
+## Objectives:
 
-### Physical Stamina Tracking
-- Player condition influenced by skill use and rest.
-- Display changes visually as exhaustion grows.
+1. Deepen gameplay mechanics with dynamic interactions:
+   - Design the skill system using power-up cards.
+   - Introduce weather-integrated effects more actively.
 
-## Card/Elemental Skills
-- "Flame Pulse Stone": Burns through time.
-- "Wind Reverse": Redirect paths already airborne mid-physics cycle.
-
-## Outcomes:
-- Kinematics integrate natural/human across diverse possible skillsets.
-
----
+2. Improve player feedback and visuals:
+   - Executable particle flares or animations per skill launch vs weather-tied dynamics (eg massively empowering status visuals felt meanwhile smooth).
