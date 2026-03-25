@@ -1,34 +1,38 @@
-# Phase 2: Platform and Development Environment Setup
+# Phase 2: Platform and Development Environment Setup (Revised)
 
 ## Tools and Technologies
 
 ### Game Engine
-- **Godot Engine:** Used for developing the core gameplay mechanics.
-- Flexible 2D capabilities with excellent pixel-art integration.
+- **Godot Engine:** Selected for its support for 2D development and pixel art integration.
+- Flexible scripting and visual tools for creating dynamic effects.
 
 ### Backend
-- **Node.js:** Handles server-side management of online multiplayer connections.
-- Real-time communication with low-latency WebSockets.
+- **Node.js with WebSocket:** Chosen for real-time multiplayer connectivity.
+- Enables fast and low-latency communication.
 
-### Pixel Art
-- Tools: **Aseprite** or **Piskel** for creating engaging assets.
+### Asset Creation Tools
+- **Aseprite:** For developing pixel art sprites and animations.
+- **Tiled:** For creating tile-based backgrounds (if required).
 
-## Tasks
+## Key Tasks for Phase 2
 
-1. **Online Multiplayer Setup:**
-   - Code base to initialize game rooms where two players can connect.
-   - Handle player entry and real-time turn monitoring.
+1. **Environment Setup:**
+   - Install and configure development tools (Godot, Node.js, Aseprite, etc.).
+   - Set up version control (Git) for collaborative development.
 
-2. **Gameplay Prototype:**
-   - Implement stone-throwing mechanics with basic turn-based logic.
-   - Basic UI for health bars and stone selection.
+2. **Server Development:**
+   - Create a basic Node.js WebSocket server for managing game sessions.
+   - Implement room creation and player matchmaking functionality.
 
-3. **Server Hosting:**
-   - Deploy a prototype Node.js server for hosting lobbies.
-   - Conduct load tests to ensure latency and scalability are within range.
+3. **Basic Game Framework:**
+   - Develop the game loop in Godot Engine.
+   - Create a simple scene to test basic interactions (e.g., animations, throwing mechanics).
 
-## Deliverables
+4. **Prototype Testing:**
+   - Connect the client (game) to the server and simulate a two-player session.
+   - Test latency and synchronization.
 
-- Functional prototype of a lobby system.
-- Unity or Godot-based gameplay showcasing basic level mockups and movements.
-- Drafted architecture for online connections.
+## Expected Deliverables
+- A fully configured development environment.
+- A functional WebSocket server for multiplayer sessions.
+- A playable prototype showcasing turn-based throwing mechanics.
