@@ -1,25 +1,33 @@
-# Phase 4: Balancing and Testing
+# Phase 4: Game Balancing and Testing
 
-## Tasks
+## Objectives:
+1. Balance skill mechanics and weather effects to ensure fair gameplay.
+2. Test multiplayer performance under various network conditions.
+3. Debug and refine game components to eliminate inconsistencies.
+4. Enhance visual elements for improved player experience.
 
-1. **Balance Testing:**
-   - Evaluate power-up cards to ensure no single skill dominates gameplay.
-   - Adjust weather and stamina effects to maintain fairness.
+## Tasks:
 
-2. **Multi-Player Testing:**
-   - Invite testers to play several rounds.
-   - Collect feedback on gameplay, latency, and usability.
+### 1. Game Balancing
+- Adjust power-up card effects:
+  - Fine-tune `Fire Stone`, `Accuracy Boost`, and `Shield` to prevent overpowering.
+- Balance weather impact:
+  - Rain and Wind effects should significantly influence strategy without being overbearing.
 
-3. **Bug Fixing:**
-   - Address reported issues such as lag or unresponsive UI.
-   - Enhance server stability with stress tests.
+### 2. Multiplayer Testing
+- Conduct latency analysis and measure server response times.
+- Simulate games with multiple players to test synchronization integrity.
 
-4. **Adding Polish:**
-   - Refine the UI with better visuals and animations.
-   - Implement sound effects for actions and background music.
+### 3. Debugging and Refinements
+- Fix discrepancies in existing mechanics (e.g., turn transitions).
+- Ensure animations and effects are consistent under all conditions.
 
-## Deliverables
+### 4. Visual and Audio Enhancements
+- Add sound effects for successful attacks, skill activations, and user actions.
+- Refine animations for smoother transitions between turns and actions.
 
-- Balanced gameplay with diverse strategies.
-- Bug-free user experience with a polished interface.
-- Documented tester feedback and resolutions.
+## Deliverables:
+1. Balanced gameplay with diverse strategies.
+2. Multiplayer functionality guaranteed under realistic conditions.
+3. Bug-free, polished interface and animations.
+4. Testing documentation with insights for final adjustments.
