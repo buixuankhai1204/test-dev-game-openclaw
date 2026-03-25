@@ -1,0 +1,5 @@
+# Clear Weather Icon
+
+- A 32x32 static sprite featuring:
+  - A bright yellow sun with subtle rays.
+- No animations as this represents calm weather conditions.

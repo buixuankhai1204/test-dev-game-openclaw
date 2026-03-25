@@ -1,0 +1,8 @@
+# Basic Stone Sprite
+
+- A circular 32x32 sprite for the basic throwable stone.
+- Design details:
+  - Gray color with slight texture to resemble rock surface.
+  - Subtle shading for depth.
+
+No additional animations are required for this stone.

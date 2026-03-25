@@ -1,0 +1,12 @@
+# Player 1 Idle Animation
+
+- A simple 64x64 sprite for the Player 1 character in idle position.
+- The sprite features:
+  - Standing pose with arms to the side.
+  - Slight animation for breathing to make it lively.
+- Placeholder color scheme for distinction: red shirt, blue pants.
+
+Animation frames (breathing motion):
+1. Initial standing.
+2. Chest slightly expands.
+3. Return to initial position.
