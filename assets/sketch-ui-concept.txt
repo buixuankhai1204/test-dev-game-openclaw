@@ -1,0 +1,18 @@
+# UI Sketch Concept for Phase 1
+
+## Components:
+
+1. **Health Bars:** Displayed at the top corners for each player.
+- Left for Player 1, right for Player 2.
+
+2. **Weather Panel:** Centered at the top, showing the current weather (like 'Rainy', 'Windy') with a matching icon.
+
+3. **Throw Control Area:**
+- Aiming arrow in the center of the screen for targeting.
+- Power meter below for adjusting throw strength (via a slider).
+
+4. **Player Stats:**
+- Under the health bars: stamina, accuracy, and power-up cards.
+
+5. **Pixel Art Background:**
+Placeholder terrain with a suggested environment that matches weather dynamics (grass swaying in windy themes, wet puddled surfaces, etc.).
