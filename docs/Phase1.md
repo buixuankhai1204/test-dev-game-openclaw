@@ -1,36 +1,42 @@
-# Phase 1: Concept and Design
+# Phase 1: Concept and Design (Revised)
 
-## Gameplay Details
+## Updated Gameplay Details
 
-- **Rules:** Each player has 10 turns to throw stones. The player with the most damage dealt wins.
-- **Dynamic Factors:**
-  - Weather conditions (e.g., rain, wind) alter the effectiveness of throws.
-  - Player condition states (e.g., fatigue, temperature) influence accuracy and strength.
-- **Power-Up Cards:**
-  - Available skills include: fire stones, accuracy boosts, defense, and more.
-  - Cards are randomly drawn to maintain unpredictability.
+### Rules:
+- Each player has 10 turns to throw stones.
+- The goal is to deal more damage than the opponent.
+- Players can use power-up cards to enhance their strategy.
 
-## Sketch Layout
+### Dynamic Factors:
+- **Weather:**
+  - Clear: No effects, optimal conditions.
+  - Rainy: Throw strength reduced by 20%.
+  - Windy: Throws are pushed by the wind (with a visible indicator).
+- **Player Condition:**
+  - Fatigue accumulates over turns, impacting accuracy.
 
-- **Game Interface:**
-  - Health bars and player conditions displayed prominently.
-  - Weather indicators on the top of the screen.
-  - A simple 2D environment with pixel art aesthetics.
-  - Power-up cards visible when drawn.
+### Power-Up Cards:
+- Fire Stone: Increases damage for the next throw.
+- Accuracy Boost: Increases chance to hit despite fatigue or wind.
+- Shield: Nullifies next incoming throw.
 
-## Character and Graphics Design
+## Revised Assets Plan
 
-- **Character Style:** Fun pixel-art characters with animated throwing motions.
-- **Visual Effects:** Simple but engaging (e.g., fire, wind trails, and card activations).
-- **Environment:** Minimalist but responsive backgrounds reflecting weather dynamics.
+### UI Sketches:
+- Health bars at the top.
+- Condition indicators (weather, player stamina) on the side.
+- Power meter for throw strength.
 
-## Tools and Assets for Reference
+### Pixel Art for:
+- Player 1 and Player 2 character animations (idle, throw).
+- Throwable stones (basic, fire, wind).
+- Weather icons (clear, rainy, windy).
 
-- **Pixel Art Tools:** Aseprite or Piskel.
-- **Sound Effects:** Placeholder sound libraries.
-- **Sketch Inspirations:** Include doodles of weather-driven mechanics.
+## Deliverables:
+- Completed gameplay design document.
+- Updated sketches for the interface and assets.
+- Conceptual examples of core graphical elements.
 
-## Expected Deliverables:
-  1. Complete detailed gameplay design document.
-  2. Basic interface and character sketch.
-  3. Conceptual examples of power-ups and throwing mechanics.
+---
+
+This revision integrates feedback from the earlier design to improve gameplay clarity and visual appeal.
